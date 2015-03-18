@@ -1,3 +1,14 @@
 // bower:scss
 @import "../../bower_components/bootstrap-sass-official/assets/stylesheets/_bootstrap.scss";
 // endbower
+
+//temporary styles
+
+.header-featured-image {
+  max-height: 300px;
+  overflow: hidden;
+  img {
+    max-width:100%;
+    height:auto
+  }
+}
